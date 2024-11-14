@@ -31,8 +31,6 @@ Producto
 - DELETE /api/product/delete/:id - Eliminar producto
 
 Para la documentación Api, está dispoible en:
-https://aplicacion-backend-6.onrender.com/api/docs/#/
-
 http://localhost:4000/api/docs/
 
 
