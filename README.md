@@ -33,6 +33,8 @@ Producto
 Para la documentación Api, está dispoible en:
 https://aplicacion-backend-6.onrender.com/api/docs/#/
 
+http://localhost:4000/api/docs/
+
 
 
 Nombre: Carlos Farias Galdames
